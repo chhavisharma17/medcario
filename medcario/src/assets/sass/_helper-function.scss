@@ -25,7 +25,7 @@
     background: -o-linear-gradient(left, rgba(101, 65, 193, 1) 0%, rgba(212, 51, 150, 1) 98%, rgba(212, 51, 150, 1) 100%);
     background: -ms-linear-gradient(left, rgba(101, 65, 193, 1) 0%, rgba(212, 51, 150, 1) 98%, rgba(212, 51, 150, 1) 100%);
     background: linear-gradient(to right, rgba(101, 65, 193, 1) 0%, rgba(212, 51, 150, 1) 98%, rgba(212, 51, 150, 1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6541c1', endColorstr='#d43396', GradientType=1);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9EC75C', endColorstr='#185A5B', GradientType=1);
 }
 
 @mixin thmGradientInverse () {
@@ -36,7 +36,7 @@
     background: -o-linear-gradient(left, rgba(212, 51, 150, 1) 0%, rgba(101, 65, 193, 1) 100%);
     background: -ms-linear-gradient(left, rgba(212, 51, 150, 1) 0%, rgba(101, 65, 193, 1) 100%);
     background: linear-gradient(to right, rgba(212, 51, 150, 1) 0%, rgba(101, 65, 193, 1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d43396', endColorstr='#6541c1', GradientType=1);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#185A5B', endColorstr='#9EC75C', GradientType=1);
 }
 
 @mixin thmGradientText {

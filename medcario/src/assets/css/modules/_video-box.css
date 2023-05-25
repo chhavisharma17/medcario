@@ -1,5 +1,5 @@
 .video-box {
-  background: #D9378B url(../img/video-bg.jpg) center center no-repeat fixed;
+  background: #185A5B url(../img/video-bg.jpg) center center no-repeat fixed;
   background-size: cover;
   position: relative;
   padding: 126px 0; }
@@ -10,7 +10,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(61, 30, 130, 0.67); }
+    background: RGBA(158,199,92,0.49); }
   .video-box .container {
     position: relative; }
   .video-box h3 {
@@ -44,4 +44,4 @@
       font-size: 20px;
       line-height: 84px;
       border-radius: 50%;
-      background: #D9378B; }
+      background: #185A5B; }

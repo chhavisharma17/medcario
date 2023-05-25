@@ -163,8 +163,8 @@
         .header-navigation .container .right-side-box {top: 0;}
         .header-navigation.stricky-fixed .container .right-side-box {top: 20px;}
         .header-navigation.stricky-fixed .container .navbar-toggle {margin: 22px 0;}
-        .header-navigation.stricky-fixed .navbar-toggle:hover {border-color: #6B40BF;}
-        .header-navigation.stricky-fixed .navbar-toggle:hover .icon-bar {background: #6B40BF;}
+        .header-navigation.stricky-fixed .navbar-toggle:hover {border-color: #9EC75C;}
+        .header-navigation.stricky-fixed .navbar-toggle:hover .icon-bar {background: #9EC75C;}
         .mobile_menu_button {
             display: block;
         }
